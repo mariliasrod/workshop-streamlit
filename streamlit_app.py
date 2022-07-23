@@ -4,5 +4,5 @@ import numpy as np
 
 st.title('O título é por sua conta')
 
-streamlit run uber_pickups.py
+streamlit uber_pickups.py
 
