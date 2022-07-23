@@ -4,7 +4,7 @@ import numpy as np
 
 st.title('O título é por sua conta')
 
-st streamlit_app.py
+
 
 
 
